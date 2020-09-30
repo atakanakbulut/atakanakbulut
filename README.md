@@ -3,7 +3,5 @@
 <h3 align="center"> C, C++, Python Software Developer || Embedded Software Developer || Electronic Engineer </h3>
 <p align="center"> 
 
-
-
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atakanakbulut&show_icons=true&theme=tokyonight" alt="atakanakbulut" /></p>
+<IMG SRC=https://github.com/atakanakbulut/atakanakbulut/blob/master/gif_inception.gif>
+  
